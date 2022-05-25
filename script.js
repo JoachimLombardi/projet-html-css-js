@@ -1,4 +1,4 @@
-functiondireonjour()
+functiondireBonjour()
 {
 alert("Bonjour !")
 }
