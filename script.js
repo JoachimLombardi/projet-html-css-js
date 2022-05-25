@@ -1,0 +1,4 @@
+functiondireonjour()
+{
+alert("Bonjour !")
+}
